@@ -31,3 +31,8 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.top-banner1{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    float: right;
+}
