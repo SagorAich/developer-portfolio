@@ -18,6 +18,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    margin-bottom: 150px;
 }
 .link-button{
     text-decoration: none;
@@ -34,5 +35,5 @@ section{
 .top-banner1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    float: right;
+    background-position: right;
 }
